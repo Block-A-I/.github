@@ -7,4 +7,4 @@
 👩‍ Docs will be following soon aswell as an list of Commands and everything else!
 
 
-You can see a full list of all our Team Members [here](https://blockai.infoblock.gq/team)
+You can see a full list of all our Team Members [here](http://infoblock.github.io/BlockAI/team)
