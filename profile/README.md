@@ -1,3 +1,5 @@
+<center><img src="http://block-a-i.github.io/BlockWeb/assets/BotLogoWord.png" alt="Block A.I."></center>
+
 # Hello there! 👋
 
 🙋‍ We are the Team behind **Block A.I.** - an Discord Chat Bot based on discord.js using Brainshop AI
@@ -7,4 +9,4 @@
 👩‍ Docs will be following soon aswell as an list of Commands and everything else!
 
 
-You can see a full list of all our Team Members [here](http://infoblock.github.io/BlockAI/team)
+You can visit [our Website](http://block-a-i.github.io/BlockWeb/) or see a full list of all our Team Members [here](http://block-a-i.github.io/BlockWeb/team)
