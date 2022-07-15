@@ -2,6 +2,8 @@
 
 # Hello there! 👋
 
+❗️ The Project has been deprecated! Only our Website will be updated till the day our domain expires
+
 🙋‍ We are the Team behind **Block A.I.** - an Discord Chat Bot based on discord.js using Brainshop AI
 
 🌈 Currently  there is no way that the community could contribute to our projects but there will be soon
